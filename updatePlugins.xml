@@ -2,8 +2,8 @@
 <plugins>
   <plugin
       id="com.github.teknasyon.plugin"
-      url="https://github.com/Teknasyon/intellij-ai-plugin-releases/releases/download/v0.0.8/Teknasyon-IntelliJ-Plugin-0.0.8.zip"
-      version="0.0.8">
+      url="https://github.com/Teknasyon/intellij-ai-plugin-releases/releases/download/v0.0.9/Teknasyon-IntelliJ-Plugin-0.0.9.zip"
+      version="0.0.9">
     <name>Teknasyon AI</name>
     <description>Internal Teknasyon AI</description>
     <idea-version since-build="241" until-build="253.*"/>
